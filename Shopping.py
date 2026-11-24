@@ -1,7 +1,3 @@
-# Shopping Cart System
-# Developer: Aashu
-# Language: Python 3
-
 PRICES = {
     "Pen": 10,
     "Notebook": 50,
